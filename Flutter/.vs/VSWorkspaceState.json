@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\feature",
+    "\\lib\\feature\\field",
+    "\\lib\\feature\\field\\view",
+    "\\lib\\feature\\form"
+  ],
+  "SelectedNode": "\\lib\\feature\\field\\view\\field_view.dart",
+  "PreviewInSolutionExplorer": false
+}
